@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Athanasios Karlatiras
 
-I'm a software developer with experience in multiple programming languages and environments, including **C**, **C#**, **Java**, **Visual Basic**, **Prolog**, **sql** and **Android development**.  
+I'm a software developer with experience in multiple programming languages and environments, including **C**, **C#**, **Java**, **Visual Basic**, **Prolog**, **SQL** and **Android development**.  
 I enjoy building practical applications, solving real-world problems, and exploring different tech stacks.
 
 ---
@@ -43,7 +43,7 @@ Feel free to reach out or explore my repositories.
 
 # 🇬🇷 Λίγα λόγια στα Ελληνικά
 
-Γεια σας! Ονομάζομαι **Θανάσης Καρλατήρας** και ασχολούμαι με την ανάπτυξη λογισμικού σε διάφορες πλατφόρμες και γλώσσες, όπως C, C#, Java, Kotlin, Visual Basic sql και Prolog.  
+Γεια σας! Ονομάζομαι **Θανάσης Καρλατήρας** και ασχολούμαι με την ανάπτυξη λογισμικού σε διάφορες πλατφόρμες και γλώσσες, όπως C, C#, Java, Kotlin, Visual Basic SQL και Prolog.  
 Μου αρέσει να δημιουργώ εφαρμογές που λύνουν πραγματικά προβλήματα και να εξερευνώ διαφορετικές τεχνολογίες.  
 Αυτή την περίοδο αναπτύσσω την εφαρμογή **AthensRingHelper** για Android (Δακτύλιος Αθήνας), την οποία θα ανεβάσω σύντομα στο GitHub μαζί με παλαιότερα και νεότερα projects.
 
